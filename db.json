@@ -13,10 +13,10 @@
         },
         {
           "teachId": "10002",
-          "name": "教研项目2",
-          "type": "教学研究",
-          "workGroup": "语文教研组",
-          "belongTo": "洪山一小",
+          "teach": "教研项目2",
+          "teachType": "教学研究",
+          "teachGroup": "语文教研组",
+          "orgName": "洪山一小",
           "createTime": "1627625419592"
         }
       ]
