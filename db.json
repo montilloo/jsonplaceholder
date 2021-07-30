@@ -5,10 +5,10 @@
       "data": [
         {
           "teachId": "10001",
-          "name": "教研项目1",
-          "type": "教学研究",
-          "workGroup": "英语教研组",
-          "belongTo": "洪山实验中学",
+          "teach": "教研项目1",
+          "teachType": "教学研究",
+          "teachGroup": "英语教研组",
+          "orgName": "洪山实验中学",
           "createTime": "1627625469967"
         },
         {
