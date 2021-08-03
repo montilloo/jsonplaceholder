@@ -1,23 +1,31 @@
 {
-  "teachList": [
+  "teachProjectList": [
     {
       "id": 1,
       "data": [
         {
-          "teachId": "10001",
-          "teach": "教研项目1",
-          "teachType": "教学研究",
-          "teachGroup": "英语教研组",
+          "id": 1,
+          "name":"教研项目1",
+          "type": "教学研究",
+          "workGroup": "英语教研组",
           "orgName": "洪山实验中学",
-          "createTime": "1627625469967"
+          "createTime": 1627977138843
         },
         {
-          "teachId": "10002",
-          "teach": "教研项目2",
-          "teachType": "教学研究",
-          "teachGroup": "语文教研组",
-          "orgName": "洪山一小",
-          "createTime": "1627625419592"
+          "id": 2,
+          "name":"教研项目2",
+          "type": "素质教育",
+          "workGroup": "数学教研组",
+          "orgName": "滕州一中",
+          "createTime": 1627977222488
+        },
+        {
+          "id": 3,
+          "name":"教研项目3",
+          "type": "双减政策",
+          "workGroup": "地理教研组",
+          "orgName": "济南中学",
+          "createTime": 1627977231021
         }
       ]
     }
